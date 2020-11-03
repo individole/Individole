@@ -1,3 +1,3 @@
 <?php
 
-ech "fdsfdsfdsds";
+echo "123fdsfdsfdsds";
