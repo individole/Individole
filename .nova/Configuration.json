@@ -1,0 +1,7 @@
+{
+  "index.ignored_file_patterns" : [
+    ".nova",
+    "prepros.config",
+    "\/.nova\/Configuration.json"
+  ]
+}

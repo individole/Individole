@@ -1,0 +1,926 @@
+----------------------------------
+and
+de=und
+en=and
+it=e
+hr=i
+tr=ve
+fr=et
+es=y
+nl=en
+----------------------------------
+dashboard_wordsearch_title
+de=Posts finden
+en=Find posts
+----------------------------------
+no
+de=Nein
+en=No
+----------------------------------
+edit
+de=bearbeiten
+en=edit
+----------------------------------
+yes
+de=Ja
+en=Yes
+----------------------------------
+or
+de=oder
+en=or
+----------------------------------
+from
+de=vom
+en=from
+----------------------------------
+to
+de=bis
+en=to
+----------------------------------
+and
+de=und
+en=and
+----------------------------------
+with
+de=mit
+en=with
+----------------------------------
+choose
+de=Auswählen
+en=Choose
+----------------------------------
+columns
+de=Spalten
+en=Columns
+----------------------------------
+too_long
+de=zu lang
+en=too long
+----------------------------------
+admin_menu_pages
+de=Seiten
+en=Pages
+----------------------------------
+admin_menu_forms
+de=Formulare
+en=Forms
+----------------------------------
+admin_menu_form
+de=Formular
+en=Form
+----------------------------------
+acf_field_info_encrypt
+de=wird in DB verschlüsselt
+en=will be encrypted in DB
+----------------------------------
+acf_wordindex
+de=Suchindex
+en=searchindex
+----------------------------------
+acf_seo_description
+de=wird autom. für SEO verwendet, wenn die SEO-Box unausgefüllt bleibt.
+en=will be used for SEO, if SEO-Box is empty
+----------------------------------
+acf_seo_description2
+de=wird autom. für SEO verwendet, wenn das vorherige Fallbackfeld <u>UND</u> die SEO-Box unausgefüllt bleiben.
+en=will be used for SEO, if previous fallback field <u>AND</u> the SEO-Box are empty
+----------------------------------
+dashboard_wordindex_title
+de=Wortindex
+en=Wordindex
+----------------------------------
+dashboard_wordindex_off
+de=Keine Wortindex Funktion eingerichtet.<br>Die Webseite hat keine Suchfunktion.
+en=No wordindex creation configured.<br>Website does not have a search function.
+----------------------------------
+dashboard_wordindex_text
+de=Der Wortindex wird alle 6h automatisch generiert, kann aber hier auch adhoc erstellt werden.
+en=The wordindex will be generated automatically every 6h, but can be created directly by clicking the button.
+----------------------------------
+dashboard_wordindex_submit
+de=Wortindex jetzt neu erstellen
+en=Create wordindex now
+----------------------------------
+dashboard_purge_cache_submit
+de=Seitencache komplett leeren
+en=Clear page cache now
+----------------------------------
+dashboard_purge_cache_hint
+de=Bei Änderungen seitenübergreifender Elemente (Navigation, Header, Footer, etc.) und wenn aktualisierte Inhalte nicht angezeigt werden, ist meist ein Leeren des Caches erforderlich.
+en=After updating of elements appearing on all pages (navigation, header, footer, etc.) and if updated content does not appear, a cache refresh could be neccessary.
+----------------------------------
+admin_topbar_btn_website
+de=Webseite
+en=Website
+----------------------------------
+admin_topbar_btn_dashboard
+de=Dashboard
+en=Dashboard
+----------------------------------
+admin_listpages_sort
+de=sortieren
+en=sort
+----------------------------------
+repeater_label_stories_teaser_text
+de=Einleitung
+en=Introduction
+----------------------------------
+repeater_label_author
+de=Autor
+en=Author
+----------------------------------
+repeater_label_teaser_image
+de=Teaser Bild
+en=Teaser image
+----------------------------------
+frontend_option_open_in_backend
+de=Im backend öffnen
+en=Open in backend
+----------------------------------
+frontend_option_purge_cache
+de=Cache leeren
+en=Purge cache
+----------------------------------
+frontend_option_hide_draft
+de=Drafts ausblenden
+en=Hide drafts
+----------------------------------
+frontend_option_show_draft
+de=Drafts einblenden
+en=Show drafts
+----------------------------------
+frontend_option_disable_minify
+de=Minify deaktivieren
+en=Disable Minify
+----------------------------------
+frontend_option_seo
+de=SEO Meta Tags
+en=SEO Meta Tags
+----------------------------------
+frontend_option_tools
+de=Werkzeuge
+en=Tools
+----------------------------------
+frontend_option_options
+de=Optionen
+en=Toggle Options
+----------------------------------
+frontend_option_ruler
+de=Zeige Lineal
+en=Show ruler
+----------------------------------
+xxxfrontend_option_grid
+de=Edit mode on/off
+en=Edit mode on/off
+----------------------------------
+frontend_option_grid_off
+de=Raster deaktivieren
+en=Turn grid off
+----------------------------------
+frontend_option_grid_on
+de=Raster aktivieren
+en=Turn grid on
+----------------------------------
+frontend_option_edit_off
+de=Edit mode deaktivieren
+en=Turn edit mode off
+----------------------------------
+frontend_option_edit_on
+de=Edit mode aktivieren
+en=Turn edit mode on
+----------------------------------
+frontend_option_mobile_view
+de=Mobile Ansicht
+en=Mobile view
+----------------------------------
+frontend_option_analyze_images
+de=Bilder > 400kb finden
+en=Find images > 400kb
+----------------------------------
+frontend_option_cache
+de=Cache leeren
+en=Clear cache
+----------------------------------
+frontend_option_post_status_publish
+de=Veröffentlicht
+en=Published
+----------------------------------
+frontend_option_post_status_draft
+de=Entwurf
+en=Draft
+----------------------------------
+frontend_option_post_status_private
+de=Privat
+en=Private
+----------------------------------
+frontend_option_seo_keywords_instructions
+de=kommasepariert; wird den Standard-Keywords vorangestellt und als Suchbegriff verwendet
+en=comma separated; will be appended to the default page keywords and used as search string
+----------------------------------
+frontend_option_seo_description_instructions
+de=ersetzt die Standard-<br>Seitenbeschreibung
+en=will replace the default<br>page description
+----------------------------------
+frontend_option_seo_title_instructions
+de=ersetzt den Post Title
+en=will replace the post title
+----------------------------------
+frontend_option_no_file_selected
+de=Keine Datei ausgewählt
+en=No file selected
+----------------------------------
+frontend_option_add_images
+de=+ Bild(er) hinzufügen
+en=+ add image(s)
+----------------------------------
+frontend_option_toggle_options
+de=Options on/off
+en=Options on/off
+----------------------------------
+frontend_option_remove_file
+de=Datei entfernen
+en=Remove file
+----------------------------------
+frontend_option_select_file
+de=Datei wählen
+en=Select file
+----------------------------------
+frontend_option_select_image
+de=Bild wählen
+en=Select image
+----------------------------------
+frontend_option_no_image_selected
+de=Kein Bild ausgewählt
+en=No image selected
+----------------------------------
+frontend_option_save
+de=Speichern
+en=Save
+----------------------------------
+frontend_option_cancel
+de=Abbrechen
+en=Cancel
+----------------------------------
+frontend_module_inactive
+de=Modul inaktiv
+en=Module inactive
+----------------------------------
+backend_modules_columns_equal
+de=Alle Spalten gleichm&auml;&szlig;ig verteilen
+en=all columns with same width
+----------------------------------
+backend_metabox_duplicate_pm_empty_value
+de=-- Quelle auswählen --
+en=-- Select source --
+----------------------------------
+backend_metabox_duplicate_pm_option_only_flex
+de=nur "Flexible Module" übernehmen
+en=copy only "Flexible Modules"
+----------------------------------
+backend_metabox_duplicate_pm_option_only_page_options
+de=nur "Page Options" übernehmen
+en=copy only "Page Options"
+----------------------------------
+backend_metabox_duplicate_pm_option_all
+de=alle Inhalte übernehmen
+en=copy everything
+----------------------------------
+backend_metabox_duplicate_pm_submit
+de=Inhalte jetzt kopieren
+en=Copy content now
+----------------------------------
+backend_metabox_duplicate_pm_help
+de=
+en=
+----------------------------------
+backend_seo_metabox_info
+de=Alle Eingaben sind optional, verbessern aber die SEO Daten
+en=All fields are optional, but will optimize SEO data
+----------------------------------
+backend_seo_metabox_button
+de=Vorschau anzeigen
+en=Show preview
+----------------------------------
+backend_flex_modules_label
+de=Seiten-Module
+en=Flexible Content Modules
+----------------------------------
+backend_flex_modules_button_label
+de=+ Modul hinzufügen
+en=+ add content module
+----------------------------------
+backend_flex_modules_instructions
+de=<p>Module werden untereinander angeordnet. Nebeneinander angeordnete Module mit Hilfe von "Content columns" anlegen.
+en=<p>Added modules will be arranged with each other. If you want to arrange side by side use "Content columns"
+----------------------------------
+backend_flex_modules_space_top
+de=&uarr; Abstand
+en=&uarr; gap
+----------------------------------
+backend_flex_modules_options_module_name
+de=Modulname
+en=Module name
+----------------------------------
+backend_flex_modules_options_module_id
+de=Modul: ID
+en=Module: ID
+----------------------------------
+backend_flex_modules_options_module_inactive
+de=Vorschaumodus
+en=Preview mode
+----------------------------------
+backend_flex_modules_options_module_headline
+de=Headline über Modul
+en=Headline above module
+----------------------------------
+backend_flex_modules_options_module_headline_subtitle
+de=(Kurz)Text über Modul
+en=(Short) text above module
+----------------------------------
+backend_flex_modules_options_module_inactive_instructions
+de=&#8627; nur eingeloggt sichtbar
+en=&#8627; only logged visible
+----------------------------------
+backend_form_module_space_top
+de=&uarr; zus. Abstand
+en=&uarr; add gap
+----------------------------------
+backend_flex_modules_space_top_prepend
+de=Abstand zum Modul davor
+en=Distance to previous module
+----------------------------------
+backend_flex_modules_space_top_append
+de=max. 300 PX
+en=max. 300 PX
+----------------------------------
+backend_flex_modules_view
+de=Modul-Breite
+en=Module width
+----------------------------------
+backend_flex_modules_w_module
+de=Breite des Moduls
+en=Width of module
+----------------------------------
+backend_flex_modules_w_content
+de=Breite des Inhalts
+en=Width of content
+----------------------------------
+backend_flex_modules_space_bottom
+de=&darr; Abstand
+en=&darr; space
+----------------------------------
+backend_flex_modules_space_innertop
+de=&uarr; innerer Abstand
+en=&uarr; inner gap
+----------------------------------
+backend_flex_modules_space_innerbottom
+de=&darr; innerer Abstand
+en=&darr; inner space
+----------------------------------
+backend_flex_modules_line_above
+de=&uarr; Linie vor dem Modul
+en=&uarr; Line before module
+----------------------------------
+backend_flex_modules_line_above_prepend
+de=Linienabstand
+en=Line distance
+----------------------------------
+backend_flex_modules_line_above_append
+de=max. 300 PX
+en=max. 300 PX
+----------------------------------
+backend_flex_modules_line_above_mobile
+de=&uarr; Linie (mobile)
+en=&uarr; Line (mobile)
+----------------------------------
+backend_flex_modules_line_above_instructions
+de=Abstand zur Linie in px
+en=gap to line in px
+----------------------------------
+backend_flex_modules_ga_event
+de=[fas fa-sort-amount-down] Scrollen tracken
+en=[fas fa-sort-amount-down] Track scrolling
+----------------------------------
+backend_flex_modules_ga_event_instructions
+de=&#8627; Tracken, ob bis zum Modul gescrollt wurde<br>&#8627; Statistik ist in Google Analytics "Ereignisse" zu finden
+en=&#8627; track, if user scrolled to this module<br>&#8627; Stats are visible in Google Analytics "Events"
+----------------------------------
+backend_flex_modules_ga_event_prepend
+de=Google Analytics Label
+en=Google Analytics Label
+----------------------------------
+backend_is_in_wpml_sync
+de=autom. Sync. in alle Sprachen
+en=auto sync to all languages
+----------------------------------
+backend_share_image
+de=wird als share image genutzt
+en=used as share image
+----------------------------------
+backend_flex_modules_inset
+de=&larr; Abstand &rarr;
+en=&larr; gap &rarr;
+----------------------------------
+backend_flex_module_text
+de=Text(spalten)
+en=Text(columns)
+----------------------------------
+backend_flex_module_text_add_column
+de=+ Text(spalte) hinzufügen (max. 4)
+en=+ add text column (max. 4 columns)
+----------------------------------
+backend_flex_module_text_instructions
+de=&#8627; Spaltenbreiten in den Einstellungen definieren
+en=&#8627; Define column widths in the settings
+----------------------------------
+backend_flex_modules_grid
+de=Spaltenraster
+en=column grid
+----------------------------------
+frontend_module_edit_image
+de=Bild
+en=Image
+----------------------------------
+frontend_module_edit_headline
+de=Überschrift
+en=Headline
+----------------------------------
+frontend_module_edit_text
+de=Text
+en=Text
+----------------------------------
+frontend_module_edit_text_settings
+de=Textmodul einrichten
+en=Adjust text module
+----------------------------------
+frontend_module_edit_columns
+de=Spalten einrichten
+en=Adjust columns
+----------------------------------
+frontend_module_placeholder_title
+de=Modul-Platzhalter
+en=Module Placeholder
+----------------------------------
+frontend_module_placeholder_subtitle
+de=Dies ist ausgeloggt unsichtbar
+en=this is invisible, if logged out
+----------------------------------
+frontend_module_placeholder_subtitle_force
+de=Diese Anzeige wird zum Website-Launch abgeschaltet
+en=this will be disabled before website launch
+----------------------------------
+frontend_option_dummy
+de=
+en=
+----------------------------------
+repeater_label_stories_teaser_text
+de=Einleitung
+en=Introduction
+----------------------------------
+repeater_label_author
+de=Autor
+en=Author
+----------------------------------
+repeater_label_teaser_image
+de=Teaser Bild
+en=Teaser image
+----------------------------------
+creme_artikel
+de=Artikel
+en=Articles
+----------------------------------
+creme_artikel_singular
+de=Artikel
+en=Article
+----------------------------------
+creme_artikel_add
+de=+ Artikel hinzufügen
+en=+ add article
+----------------------------------
+individole_image_placeholder_text
+de=Platzhalter
+en=placeholder
+----------------------------------
+seo_not_in_sitemap
+de=nicht in Sitemap aufnehmen
+en=do not save in sitemap
+----------------------------------
+seo_description
+de=optional, "Title & Description" auszufüllen ist empfohlen
+en=optional, it is recommended to fill out "Title & Description"
+----------------------------------
+string_options
+de=Optionen
+en=Options
+----------------------------------
+string_filter_results
+de=Ergebnisse filtern
+en=Filter results
+----------------------------------
+tool_words_translations_edit_post_titles
+de=Post titles bearbeiten
+en=Edit post titles
+----------------------------------
+tool_words_translations_edit_post_titles_hint
+de=&#8627; Post titles direkt bearbeiten<br>&#8627; optional Permalinks aktualisieren
+en=&#8627; directly edit page/post titles<br>&#8627; optionally update permalinks too
+----------------------------------
+tool_stats_option_range
+de=Zeiträume
+en=Date ranges
+----------------------------------
+tool_stats_option_range_days
+de=Tage
+en=Days
+----------------------------------
+tool_stats_option_range_months
+de=Monate
+en=Months
+----------------------------------
+tool_stats_option_range_years
+de=Jahre
+en=Years
+----------------------------------
+tool_stats_option_submit
+de=Aktualisieren
+en=Refresh
+----------------------------------
+shop_title_open_orders
+de=Offene Bestellungen
+en=Open Orders
+----------------------------------
+shop_title_amount_orders
+de=Anzahl Bestellungen
+en=Amount Of Orders
+----------------------------------
+shop_title_sales
+de=Umsatz
+en=Sales
+----------------------------------
+shop_title_sales_summary
+de=Umsatz (letzte {days} Tage)
+en=Sales Summary (last {days} days)
+----------------------------------
+shop_title_amount_sales_and_orders
+de=Umsätze & Anzahl Bestellungen
+en=Sales & Amount Of Orders
+----------------------------------
+shop_title_amount_sales_and_orders_year
+de=Alle Bestellungen
+en=All Orders
+----------------------------------
+shop_title_net_sales_raw
+de=Netto-Umsätze (ohne Steuern und Rabatte)
+en=Sales net (excluding taxes & discount values)
+----------------------------------
+shop_filter_title_days
+de=Tage
+en=Days
+----------------------------------
+shop_filter_title_months
+de=Monate
+en=Months
+----------------------------------
+shop_filter_title_years
+de=Jahre
+en=Years
+----------------------------------
+shop_filter_title_more
+de=Sonstiges
+en=Other
+----------------------------------
+shop_title_sum_net
+de=Netto
+en=Sum (net)
+----------------------------------
+shop_title_vat
+de=UmSt.
+en=VAT
+----------------------------------
+shop_title_sum_total
+de=Brutto
+en=Total
+----------------------------------
+shop_button_orders
+de=Bestellungen
+en=Orders
+----------------------------------
+shop_button_products
+de=Produkte
+en=Products
+----------------------------------
+shop_button_statistics
+de=Statistiken
+en=Statistics
+----------------------------------
+ecwid_dashboard_button_ecwid
+de=ECWID
+en=ECWID
+----------------------------------
+ecwid_tool_button_show_all_orders
+de=alle Bestellungen anzeigen
+en=show all orders
+----------------------------------
+ecwid_tool_title_order
+de=Bestellung
+en=Order
+----------------------------------
+ecwid_tool_title_invoice
+de=Rechnung
+en=Invoice
+----------------------------------
+ecwid_tool_title_order_date
+de=Bestelldatum
+en=Order date
+----------------------------------
+ecwid_tool_title_order_date_notification
+de=Bestätigungsmail
+en=Order mail
+----------------------------------
+ecwid_tool_title_option_shipping
+de=Versand & Rechnung
+en=Shipping & Invoice
+----------------------------------
+ecwid_tool_title_option_more
+de=Sonstiges
+en=Misc
+----------------------------------
+ecwid_tool_table_title_items
+de=Warenkorb
+en=Cart
+----------------------------------
+ecwid_tool_table_title_price
+de=Preis
+en=Price
+----------------------------------
+ecwid_tool_table_title_weight
+de=Gewicht
+en=Weight
+----------------------------------
+ecwid_tool_table_title_tracking_numbers
+de=Sendungsnummern
+en=Tracking numbers
+----------------------------------
+ecwid_tool_table_title_tracking_number
+de=Sendungsnummer
+en=Tracking number
+----------------------------------
+ecwid_tool_table_title_carrier
+de=Versand mit
+en=Shipping with
+----------------------------------
+ecwid_tool_table_title_invoice
+de=Rechnung
+en=Invoice
+----------------------------------
+ecwid_tool_table_title_mail_recipients
+de=Mail Empfänger
+en=Mail recipients
+----------------------------------
+ecwid_tool_button_invoice
+de=Rechnung
+en=Invoice
+----------------------------------
+ecwid_tool_button_invoice_preview
+de=Vorschau Rechnung
+en=Preview invoice
+----------------------------------
+ecwid_tool_button_edit_in_ecwid
+de=in ECWID bearbeiten
+en=Edit in ECWID
+----------------------------------
+ecwid_tool_button_show_all_orders_short
+de=Historie
+en=History
+----------------------------------
+ecwid_tool_button_answer_comment
+de=Antworten
+en=Answer
+----------------------------------
+ecwid_tool_button_add_tracking_number
+de=Nummer manuell hinzufügen
+en=add tracking number
+----------------------------------
+ecwid_tool_title_finish_order
+de=Bestellung abschließen
+en=Finish order
+----------------------------------
+ecwid_tool_title_finish_order_new_number
+de=Neue Rechnungsnummer
+en=New invoice number
+----------------------------------
+ecwid_tool_title_finish_order_invoice
+de=Rechnung erstellen (PDF)
+en=Create invoice (PDF)
+----------------------------------
+ecwid_tool_title_finish_order_send_mails
+de=Mail(s) senden
+en=Send mail(s)
+----------------------------------
+ecwid_tool_title_status
+de=Status
+en=Status
+----------------------------------
+ecwid_tool_title_payment
+de=Zahlstatus
+en=Payment
+----------------------------------
+ecwid_tool_title_shipping
+de=Versandstatus
+en=Shipping
+----------------------------------
+ecwid_tool_title_tax
+de=Steuer
+en=Tax
+----------------------------------
+ecwid_tool_title_total
+de=Summe
+en=Total
+----------------------------------
+ecwid_tool_title_misc
+de=Verschiedenes
+en=Misc.
+----------------------------------
+ecwid_tool_title_order_notification
+de=Bestellbestätigung
+en=Order notification
+----------------------------------
+ecwid_tool_title_order_notification_date
+de=Versandt
+en=Sent
+----------------------------------
+ecwid_tool_title_order_notification_recipients
+de=Versandt an
+en=Sent to
+----------------------------------
+ecwid_tool_title_client
+de=Kunde
+en=Client
+----------------------------------
+ecwid_tool_title_address_shipping
+de=Versandanschrift
+en=Shipping address
+----------------------------------
+ecwid_tool_title_address_invoice
+de=Rechnungsanschrift
+en=Invoice address
+----------------------------------
+ecwid_tool_title_phone
+de=Telefon
+en=Phone
+----------------------------------
+ecwid_tool_title_mail
+de=E-Mail
+en=E-Mail
+----------------------------------
+ecwid_tool_title_items
+de=Warenkorb
+en=Shopping cart
+----------------------------------
+ecwid_tool_title_items_price
+de=Einzelpreis
+en=Single price
+----------------------------------
+ecwid_tool_title_items_amount
+de=Menge
+en=Amount
+----------------------------------
+ecwid_tool_title_items_name
+de=Titel
+en=Title
+----------------------------------
+ecwid_edit_order
+de=Bestellung bearbeiten
+en=Edit order
+----------------------------------
+ecwid_tool_statistics_title_period
+de=Zeitraum
+en=Period
+----------------------------------
+ecwid_tool_statistics_title_period
+de=Zeitraum
+en=Period
+----------------------------------
+ecwid_tool_statistics_title_amount_orders
+de=Bestellungen
+en=Orders
+----------------------------------
+ecwid_tool_statistics_title_sum_netto
+de=Netto
+en=net
+----------------------------------
+ecwid_tool_statistics_title_sum_tax
+de=MwSt.
+en=VAT
+----------------------------------
+ecwid_tool_statistics_title_sum_brutto
+de=Gesamt
+en=Total
+----------------------------------
+ecwid_tool_statistics_title_per_day
+de=pro Tag
+en=per day
+----------------------------------
+ecwid_tool_statistics_title_per_week
+de=pro Woche
+en=per week
+----------------------------------
+ecwid_tool_statistics_title_per_month
+de=pro Monat
+en=per month
+----------------------------------
+tool_social_no_urls
+de=Keine URLs definiert
+en=No URLs defined
+----------------------------------
+tool_title_social
+de=Plattformen
+en=Platforms
+----------------------------------
+tool_title_sort_posts
+de=sortieren
+en=sort
+----------------------------------
+tool_title_create_posts
+de=erstellen
+en=bulk create
+----------------------------------
+tool_title_ecwid_orders
+de=Bestellungen
+en=Orders
+----------------------------------
+tool_title_ecwid_carts
+de=Warenkörbe
+en=Carts
+----------------------------------
+tool_title_ecwid_shipping
+de=Versand
+en=Shipping
+----------------------------------
+tool_title_ecwid_coupons
+de=Gutscheine
+en=Coupons
+----------------------------------
+tool_title_ecwid_products
+de=Produkte
+en=Products
+----------------------------------
+tool_title_ecwid_settings
+de=Einstellungen
+en=Settings
+----------------------------------
+tool_title_ecwid_design
+de=Design
+en=Design
+----------------------------------
+tool_title_ecwid_statistics
+de=Statistiken
+en=Statistics
+----------------------------------
+tool_title_redirections
+de=URL Umleitungen
+en=URL redirections
+----------------------------------
+tool_title_privacy_policy
+de=Datenschutz
+en=Privacy policy
+----------------------------------
+tool_title_translations
+de=Wörter & Sätze
+en=Words & sentences
+----------------------------------
+tool_title_translations_wpml
+de=Base Stuff (depr.)
+en=Base Stuff (depr.)
+----------------------------------
+tool_title_texts
+de=Wörter & Sätze
+en=Words & sentences
+----------------------------------
+tool_title_texts_wpml
+de=Wörter & Übersetzungen
+en=Words & translations
+----------------------------------
+tool_title_facebook_shopping_settings
+de=Shop
+en=Shop
+----------------------------------
+dashboard_title_currently_logged_users
+de=Aktuell eingeloggte Nutzer
+en=Currently logged users
+----------------------------------
+submitbox_modified
+de=Zuletzt bearbeitet
+en=Last modified
+----------------------------------
+xxx
+de=
+en=
+----------------------------------
+xxx
+de=
+en=
+----------------------------------
+xxx
+de=
+en=
